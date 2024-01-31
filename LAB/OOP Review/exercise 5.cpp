@@ -1,5 +1,10 @@
 /*
-In the toy store, all toy has a price.Car toy has a price and color, Puzzle toy has a price and size.We have to implement class CarToy and class PuzzleToy which inherit from class Toy.class ToyBox has a pointer array to store a list of toys(up to 5 items including car and puzzle) and number of items in the box.Your task is to implement two function addItem(…) in class ToyBox.If successfully added, the function returns the current number of toys in the box.If the box is full, return -1.
+In the toy store, all toy has a price.Car toy has a price and color, 
+Puzzle toy has a price and size.We have to implement class CarToy and class PuzzleToy which inherit from class Toy.
+class ToyBox has a pointer array to store a list of toys(up to 5 items including car and puzzle) and number of items in the box.
+Your task is to implement two function addItem(…) in class ToyBox.
+If successfully added, the function returns the current number of toys in the box.
+If the box is full, return -1.
 
 For example :
 ________________________________________________________
