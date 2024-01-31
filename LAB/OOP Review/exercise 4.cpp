@@ -1,5 +1,7 @@
 /*
-Hoang is a K19 student studying at Bach Khoa University. He plans to write a book management software for the library. In the class design, Hoang has designed the class Book as follows:
+Hoang is a K19 student studying at Bach Khoa University. 
+He plans to write a book management software for the library. 
+In the class design, Hoang has designed the class Book as follows:
 
 class Book
 {
